@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper gets accepted to <i>CVPR 2024!</i>
+One paper gets accepted to <i>AAAI 2025!</i>
